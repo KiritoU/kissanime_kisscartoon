@@ -7,3 +7,5 @@ venv
 .vscode
 admin
 psy-fix.js
+
+.DS_Store
